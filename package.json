@@ -8,7 +8,7 @@
   "author": "Ian Duke",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.1.1",
-    "mocha": "^3.5.0"
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
   }
 }
